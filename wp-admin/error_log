@@ -1,0 +1,5 @@
+[02-May-2015 04:51:37 UTC] PHP Warning:  Creating default object from empty value in /home/rvbco038/public_html/wp-content/themes/TESSERACT-Master_Branch/inc/customizer.php on line 48
+[02-May-2015 04:51:37 UTC] PHP Warning:  Creating default object from empty value in /home/rvbco038/public_html/wp-content/themes/TESSERACT-Master_Branch/inc/customizer.php on line 49
+[14-May-2015 09:09:10 UTC] PHP Warning:  Missing argument 3 for add_user_meta(), called in /home/rvbco038/public_html/wp-content/plugins/caldera-forms/classes/admin.php on line 236 and defined in /home/rvbco038/public_html/wp-includes/user.php on line 1260
+[23-Jul-2015 19:45:18 UTC] WordPress database error Table 'rvbco038_wpdb88.wp_sitecategories' doesn't exist for query SHOW FULL COLUMNS FROM `wp_sitecategories` made by wp_upgrade, upgrade_network, maybe_convert_table_to_utf8mb4
+[05-Sep-2015 05:50:46 UTC] PHP Notice:  Undefined index: ewww_image_optimizer_options in /home/rvbco038/public_html/wp-admin/includes/plugin.php on line 1837
